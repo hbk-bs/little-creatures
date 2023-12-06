@@ -1,6 +1,6 @@
 # Little Creatures
 
-floating in space
+floating in space inspired by [ertdfgcvb/TheAbyss](https://github.com/ertdfgcvb/TheAbyss).
 
 1. Clone the repo
 2. Create new branch
